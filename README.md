@@ -66,7 +66,7 @@ on shipping and order priority.
 
 ## Tools Used
 
-Tableau · MySQL · Excel · HTML · CSS · JavaScript
+Tableau · MySQL · Excel
 
 ---
 
